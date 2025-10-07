@@ -97,7 +97,7 @@ man ls  # Otevře manuálovou stránku pro ls
 echo $? # Vypíše návratový kód posledního příkazu (0=OK, nenula=chyba)
 ```
 
-## Zástupné znaky a rozšíření
+## Zástupné znaky a expanze
 
 ```bash
 cp /usr/include/*std* .    # Zkopíruje soubory obsahující "std" do aktuální složky
