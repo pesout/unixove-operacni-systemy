@@ -11,8 +11,8 @@ Stručné shrnutí jednotlivých cvičení z PEF ČZU – důležité příkazy 
     - zástupné znaky a rozšíření
     - práce v příkazové řádce
 2. [Druhé cvičení](/cviceni2.md)
-    - Vstup, výstupy a roury (pipes)
-    - Práce se soubory (čtení a zápis)
-    - Filtry (horizontální a vertikální)
-    - Regulární výrazy
-    - Grep, sed, awk
+    - vstup, výstupy a roury (pipes)
+    - práce se soubory (čtení a zápis)
+    - filtry (horizontální a vertikální)
+    - regulární výrazy
+    - grep, sed, awk
