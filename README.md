@@ -16,3 +16,14 @@ Stručné shrnutí jednotlivých cvičení z PEF ČZU – důležité příkazy 
     - filtry (horizontální a vertikální)
     - regulární výrazy
     - grep, sed, awk
+3. [Třetí a čtvrté cvičení](/cviceni3_4.md)
+    - příkaz find a xargs
+    - editory (nano, vim) a spouštění skriptů
+    - inicializační skripty, aliasy
+    - argumenty skriptů, proměnné
+    - operátory/oddělovače příkazů
+    - subshell a aritmetické prostředí
+    - příkaz test a podmínky
+    - cykly for a while
+    - příklady jednoduchých skriptů
+
