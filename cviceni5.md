@@ -26,7 +26,7 @@
 
 ## Procesy
 
-- **Proces** = jedna konkrétní běžící instance programu v systému (má unikátní PID).
+**Proces** = jedna konkrétní běžící instance programu v systému (má unikátní PID).
 
 ```bash
 ps      # vypíše procesy aktuálního terminálu (aktuální shell)
@@ -43,7 +43,7 @@ pstree  # zobrazí procesy jako strom (rodič–potomek)
 
 ### Jobs a signály
 
-- **Job** = úloha spravovaná shellem, jeden program nebo celá pipeline
+**Job** = úloha spravovaná shellem, jeden program nebo celá pipeline
 
 ```bash
 ./skript.sh    # spustí úlohu v popředí
