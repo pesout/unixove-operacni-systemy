@@ -16,7 +16,7 @@ Stručné shrnutí jednotlivých cvičení z PEF ČZU – důležité příkazy 
     - filtry (horizontální a vertikální)
     - regulární výrazy
     - grep, sed, awk
-3. [Třetí a čtvrté cvičení](/cviceni3_4.md)
+3. [Třetí cvičení](/cviceni3.md)
     - příkaz find a xargs
     - editory (nano, vim) a spouštění skriptů
     - inicializační skripty, aliasy
@@ -26,4 +26,14 @@ Stručné shrnutí jednotlivých cvičení z PEF ČZU – důležité příkazy 
     - příkaz test a podmínky
     - cykly for a while
     - příklady jednoduchých skriptů
-
+4. [Čtvrté cvičení](/cviceni4.md)
+    - práva na soubory a složky
+    - příkaz chmod, symbolický a oktalový zápis
+    - setuid, setgid a sticky bit (s-bit/t-bit)
+    - maska přístupových práv (umask)
+4. [Páté cvičení](/cviceni5.md)
+    - inode
+    - pevný a symbolický link
+    - procesy
+    - jobs a signály
+    - základní síťové příkazy
