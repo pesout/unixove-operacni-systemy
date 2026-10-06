@@ -40,5 +40,5 @@ Stručné shrnutí jednotlivých cvičení z PEF ČZU – důležité příkazy 
 
 ### Odkazy jinam
 
-– [AI-assisted DevOps – prezentace z AI Bridge workshopu](https://github.com/pesout/ai-assisted-devops-workshop/blob/main/prezentace.pdf)
+- [AI-assisted DevOps – prezentace z AI Bridge workshopu](https://github.com/pesout/ai-assisted-devops-workshop/blob/main/prezentace.pdf)
 - [Command Challenge – krátké úlohy k procvičování](https://cmdchallenge.com)
