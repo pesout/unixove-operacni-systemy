@@ -100,15 +100,15 @@ echo $? # Vypíše návratový kód posledního příkazu (0=OK, nenula=chyba)
 ## Zástupné znaky a expanze
 
 ```bash
-cp /usr/include/*std* .    # Zkopíruje soubory obsahující "std" do aktuální složky
-mv std* ~/libs             # Přesune vše začínající "std" do ~/libs
-mv *.h ~/libs/unix         # Přesune všechny hlavičkové soubory .h do cílové složky
-mv file??.txt ./velke      # Přesune soubory "fileXX.txt" (přesně 2 znaky místo "??")
-mv file[1-5].txt ./cisla   # Přesune soubory s čísly 1–5 v názvu
-cp file{1,3,5}.txt ./liche # Zkopíruje konkrétní soubory 1, 3 a 5
-touch file{1..5}.txt       # Vytvoří file1.txt až file5.txt
-mkdir myfiles_{odd,even}   # Vytvoří složky myfiles_odd a myfiles_even
-touch when\? where\? why\? # Vytvoří soubory s otazníkem v názvu (escapování "?")
+cp /usr/include/*std* .     # Zkopíruje soubory obsahující "std" do aktuální složky
+mv std* ~/libs              # Přesune vše začínající "std" do ~/libs
+mv *.h ~/libs/unix          # Přesune všechny hlavičkové soubory .h do cílové složky
+mv file??.txt ./velke       # Přesune soubory "fileXX.txt" (přesně 2 znaky místo "??")
+mv file[1-5].txt ./cisla    # Přesune soubory s čísly 1–5 v názvu
+cp file{1,3,5}.txt ./liche  # Zkopíruje konkrétní soubory 1, 3 a 5
+touch file{1..5}.txt        # Vytvoří file1.txt až file5.txt
+mkdir myfiles_{odd,even}    # Vytvoří složky myfiles_odd a myfiles_even
+touch pouze\ jeden\ soubor  # Vytvoří soubor s mezerami v názvu (escapování mezer)
 ```
 
 ## Tipy pro práci v terminálu
