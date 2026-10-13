@@ -60,7 +60,7 @@ echo "$(who)" | cut -d " " -f 1,4
 # příkazová substituce a výběr 1. a 4. pole
 
 paste -d "--" uid.txt jmeno.txt shell.txt
-# horizontální sloučení souborů se separátorem "--"
+# horizontální sloučení souborů se separátory "-"
 ```
 
 ## Regulární výrazy
